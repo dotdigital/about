@@ -4,7 +4,7 @@
 	<br>
 	<br>
 	<p>
-		<a href="https:/dotdigital.com.br/">
+		<a href="https://dotdigital.com.br/" target="_blank">
 			<b>dotdigital.com.br</b>
 		</a>
 	</p>
